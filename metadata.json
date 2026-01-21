@@ -1,0 +1,5 @@
+{
+  "name": "나-전자칠판",
+  "description": "An interactive classroom dashboard for elementary students featuring emotion tracking, timers, dice rolling, and lucky draws.",
+  "requestFramePermissions": []
+}
